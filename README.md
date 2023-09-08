@@ -1,2 +1,6 @@
 # learning-git
-to learn how to commit my codes here on github
+to learn how to commit my codes here on 
+
+testing to commit... one
+
+
